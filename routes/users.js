@@ -6,7 +6,7 @@ const { registerUser, loginUser } = require('../controllers/userController');
 
 
 const router = express.Router();
-const SECRET = 'biblioteca-api-secret';
+const SECRET = 'biblioteca-api-secret'; 
 
 // Cadastro de usuários
 router.post('/register', async (req, res) => {

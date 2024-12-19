@@ -5,7 +5,7 @@ const usersFilePath = path.join(__dirname, '../data/users.json');
 
 async function getUsers() {
   const data = await fs.readFile(usersFilePath, 'utf-8');
-  return JSON.parse(data);
+  return JSON.parse(data); 
 }
 
 async function saveUsers(users) {

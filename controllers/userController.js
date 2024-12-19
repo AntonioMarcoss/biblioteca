@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken');
 const { getUsers, saveUsers } = require('../models/user');
 
 const SECRET = 'biblioteca-api-secret';
-
+ 
 async function registerUser(data) {
   const { username, password, role } = data;
   const users = await getUsers();
