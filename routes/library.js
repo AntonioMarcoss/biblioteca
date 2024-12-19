@@ -4,7 +4,7 @@ const router = express.Router();
 const { validateBookData } = require('../middlewares/validate');
 
 const BOOKS_PATH = './data/books.json';
-const AUTHORS_PATH = './data/authors.json';
+const AUTHORS_PATH = './data/authors.json'; 
 
 // Funções auxiliares
 async function getCollection(path) {
