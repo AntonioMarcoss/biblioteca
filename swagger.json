@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-      "version": "1.0.0",
+      "version": "1.0.0", 
       "title": "Biblioteca API",
       "description": "API para gerenciar usuários, livros e autores"
     },
