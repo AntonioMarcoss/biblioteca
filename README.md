@@ -1,7 +1,7 @@
 # Desenvolvedores
 
-Antonio Marcos Aparecido da Silva Carvalho
-João Gabriel Guergolet da Silva
+- Antonio Marcos Aparecido da Silva Carvalho
+- João Gabriel Guergolet da Silva
 
 # Biblioteca API
 
