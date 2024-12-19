@@ -1,13 +1,1 @@
-[
-    {
-      "id": 1,
-      "title": "1984",
-      "authorId": 1
-    },
-    {
-      "id": 2,
-      "title": "Dom Casmurro",
-      "authorId": 2
-    }
-  ]
-  
+[{"id":1,"title":"1984","authorId":1},{"id":2,"title":"Dom Casmurro","authorId":2},{"id":1734569805300,"title":"Novo Livro","authorId":1}]
