@@ -7,7 +7,7 @@ const swaggerDocument = require('./swagger.json');
 const userRoutes = require('./routes/users');
 const libraryRoutes = require('./routes/library');
 
-const app = express();
+const app = express(); 
 app.use(bodyParser.json());
 
 // Rotas principais
