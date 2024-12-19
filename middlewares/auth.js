@@ -7,7 +7,7 @@ function authenticateToken(req, res, next) {
     return res.status(401).json({ error: 'Token não fornecido.' });
   }
 
-  jwt.verify(token, SECRET, (err, decoded) => {
+  jwt.verify(token, SECRET, (err, decoded) => { 
     if (err) {
       return res.status(403).json({ error: 'Token inválido.' });
     }
