@@ -1,3 +1,8 @@
+# Desenvolvedores
+
+Antonio Marcos Aparecido da Silva Carvalho
+João Gabriel Guergolet da Silva
+
 # Biblioteca API
 
 API para gerenciar usuários, livros e autores.
